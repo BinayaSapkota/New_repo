@@ -1,0 +1,19 @@
+.navbar{
+    color: red;
+    text-decoration : none;
+    border: 2px solid black ;
+    border-radius: 5px;
+}
+body{
+    background-image: url("/Images/img.jpg");
+    height: 100%;
+}  
+
+footer{
+        position: sticky;
+       background:skyblue;
+}
+
+ul{
+    list-style: none;
+}
